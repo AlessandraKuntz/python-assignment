@@ -1,6 +1,3 @@
-git config --global user.email "alessandra.kuntz@med.uni-goettingen.de"
-git config --global user.name "Alessandra Kuntz"
-
 import matplotlib.pyplot as plt
 import os
 
