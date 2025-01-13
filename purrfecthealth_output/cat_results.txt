@@ -1,0 +1,30 @@
+Name      Age  Sex    Status         Activity Level      Diet Recommendation                                                             Activity Advice                         
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Luna      0.8  ♀      underweight    high                Increase food intake by 10-15%. Consider switching to a higher-calorie diet.                                            
+Felix     5.0  ♂      overweight     low                 Reduce food intake by 10-15%. Consider switching to a lighter diet.             Increase playtime or engage in more physical activities to promote weight loss.
+Lilly     0.9  ♀      normal         medium              Maintain current diet.                                                                                                  
+Oskar     4.0  ♂      normal         high                Maintain current diet.                                                          Maintain current activity level.        
+Maja      0.6  ♀      overweight     medium              Reduce food intake by 10-15%. Consider switching to a lighter diet.                                                     
+Milo      0.5  ♂      normal         low                 Maintain current diet.                                                          Increase activity level with more playtime or exercise to improve health.
+Simba     0.9  ♂      overweight     high                Reduce food intake by 10-15%. Consider switching to a lighter diet.                                                     
+Daisy     0.8  ♀      normal         high                Maintain current diet.                                                          Maintain current activity level.        
+Oliver    6.0  ♂      overweight     low                 Reduce food intake by 10-15%. Consider switching to a lighter diet.             Increase playtime or engage in more physical activities to promote weight loss.
+Saphira   0.7  ♀      normal         medium              Maintain current diet.                                                                                                  
+Ivy       0.9  ♀      normal         high                Maintain current diet.                                                          Maintain current activity level.        
+Pixi      1.2  ♀      underweight    medium              Increase food intake by 10-15%. Consider switching to a higher-calorie diet.                                            
+Merlin    3.5  ♂      underweight    high                Increase food intake by 10-15%. Consider switching to a higher-calorie diet.                                            
+Charlie   4.5  ♂      overweight     low                 Reduce food intake by 10-15%. Consider switching to a lighter diet.             Increase playtime or engage in more physical activities to promote weight loss.
+Bella     2.8  ♀      normal         medium              Maintain current diet.                                                                                                  
+Leo       0.6  ♂      overweight     high                Reduce food intake by 10-15%. Consider switching to a lighter diet.                                                     
+Tinker    3.9  ♀      overweight     medium              Reduce food intake by 10-15%. Consider switching to a lighter diet.                                                     
+Shadow    2.5  ♂      normal         high                Maintain current diet.                                                          Maintain current activity level.        
+Ruby      1.1  ♀      normal         low                 Maintain current diet.                                                          Increase activity level with more playtime or exercise to improve health.
+Peter     4.7  ♂      overweight     low                 Reduce food intake by 10-15%. Consider switching to a lighter diet.             Increase playtime or engage in more physical activities to promote weight loss.
+Oscar     2.0  ♂      normal         medium              Maintain current diet.                                                                                                  
+Zara      0.7  ♀      normal         high                Maintain current diet.                                                          Maintain current activity level.        
+Ella      0.6  ♀      overweight     medium              Reduce food intake by 10-15%. Consider switching to a lighter diet.                                                     
+Loki      0.8  ♂      normal         high                Maintain current diet.                                                          Maintain current activity level.        
+Cleo      0.8  ♀      overweight     low                 Reduce food intake by 10-15%. Consider switching to a lighter diet.             Increase playtime or engage in more physical activities to promote weight loss.
+Nina      1.9  ♀      normal         medium              Maintain current diet.                                                                                                  
+Theo      0.8  ♂      normal         high                Maintain current diet.                                                          Maintain current activity level.        
+Zeus      4.2  ♂      normal         high                Maintain current diet.                                                          Maintain current activity level.        
