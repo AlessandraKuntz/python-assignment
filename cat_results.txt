@@ -1,0 +1,30 @@
+Name      Status         Recommendation
+--------------------------------------------------
+Luna      Underweight    Increase food intake to about 144.0g or switch to a higher-calorie diet.
+Felix     Overweight     Reduce food intake to about 128.0g or switch to a lighter diet.
+Lilly     Underweight    Increase food intake to about 132.0g or switch to a higher-calorie diet.
+Oskar     Overweight     Reduce food intake to about 140.0g or switch to a lighter diet.
+Maja      Normal         Maintain current diet.
+Milo      Underweight    Increase food intake to about 174.0g or switch to a higher-calorie diet.
+Simba     Overweight     Reduce food intake to about 132.0g or switch to a lighter diet.
+Daisy     Underweight    Increase food intake to about 162.0g or switch to a higher-calorie diet.
+Oliver    Overweight     Reduce food intake to about 124.0g or switch to a lighter diet.
+Saphira   Underweight    Increase food intake to about 144.0g or switch to a higher-calorie diet.
+Ivy       Normal         Maintain current diet.
+Pixi      Underweight    Increase food intake to about 132.0g or switch to a higher-calorie diet.
+Merlin    Underweight    Increase food intake to about 216.0g or switch to a higher-calorie diet.
+Charlie   Overweight     Reduce food intake to about 104.0g or switch to a lighter diet.
+Bella     Normal         Maintain current diet.
+Leo       Overweight     Reduce food intake to about 112.0g or switch to a lighter diet.
+Tinker    Overweight     Reduce food intake to about 116.0g or switch to a lighter diet.
+Shadow    Normal         Maintain current diet.
+Ruby      Normal         Maintain current diet.
+Peter     Overweight     Reduce food intake to about 120.0g or switch to a lighter diet.
+Oscar     Normal         Maintain current diet.
+Zara      Underweight    Increase food intake to about 174.0g or switch to a higher-calorie diet.
+Ella      Normal         Maintain current diet.
+Loki      Normal         Maintain current diet.
+Cleo      Underweight    Increase food intake to about 120.0g or switch to a higher-calorie diet.
+Nina      Normal         Maintain current diet.
+Theo      Normal         Maintain current diet.
+Zeus      Overweight     Reduce food intake to about 136.0g or switch to a lighter diet.
